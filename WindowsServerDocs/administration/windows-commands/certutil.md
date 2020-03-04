@@ -22,11 +22,11 @@ ms.locfileid: "71379651"
 ---
 # <a name="certutil"></a>certutil
 
-Certutil. exe ist ein Befehlszeilenprogramm, das als Teil der Zertifikat Dienste installiert wird. Mithilfe von "Certutil. exe" können Sie Konfigurationsinformationen der Zertifizierungsstelle (Certification Authority, ca) sichern und anzeigen, Zertifikat Dienste konfigurieren, ZS-Komponenten sichern und Wiederherstellen und Zertifikate, Schlüsselpaare und Zertifikat Ketten überprüfen.
+Certutil.exe ist ein Befehlszeilenprogramm, das als Teil der Zertifikatsdienste installiert wird. Mithilfe von Certutil.exe können Sie Konfigurationsinformationen der Zertifizierungsstelle (Certification Authority, CA) ausgeben und anzeigen, Zertifikatsdienste konfigurieren, CA-Komponenten sichern und wiederherstellen und Zertifikate, Schlüsselpaare und Zertifikatsketten überprüfen.
 
-Wenn certutil auf einer Zertifizierungsstelle ohne zusätzliche Parameter ausgeführt wird, wird die aktuelle Zertifizierungsstellen Konfiguration angezeigt. Wenn cerutil auf einer nicht Zertifizierungsstelle ausgeführt wird, wird für den Befehl standardmäßig das "Certutil [-Dump"-](#-dump) Verb ausgeführt.
+Wenn Certutil auf einer Zertifizierungsstelle ohne zusätzliche Parameter ausgeführt wird, wird die aktuelle Zertifizierungsstellen-Konfiguration angezeigt. Wenn certutil auf einer Nicht-Zertifizierungsstelle ausgeführt wird, wird standardmäßig der Befehl "certutil [-dump"-](#-dump) ausgeführt.
 
-> [!WARNING]
+> [!ACHTUNG]
 > Frühere Versionen von certutil bieten möglicherweise nicht alle Optionen, die in diesem Dokument beschrieben werden. Sie können alle Optionen anzeigen, die eine bestimmte Version von certutil bereitstellt, indem Sie die im Abschnitt [Syntax Notations](#syntax-notations) aufgeführten Befehle ausführen.
 
 ## <a name="menu"></a>Menü
